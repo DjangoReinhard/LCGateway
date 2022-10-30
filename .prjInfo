@@ -1,0 +1,4 @@
+source = /d/linux/qt/LCGateway
+include = .cpp .cc .h .txt .md .png .jpg .ts Makefile
+exclude = bin build test rednose unusedStuff
+lastUpdate = 30.1.2022

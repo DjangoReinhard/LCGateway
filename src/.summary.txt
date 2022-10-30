@@ -1,0 +1,3 @@
+project    LCGateway
+subproject main application
+purpose    network gateway to linuxcnc nml interface
